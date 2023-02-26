@@ -35,3 +35,4 @@ const loop = setInterval(() => {
 }, 10);
 
 document.addEventListener('keydown', pulo);
+document.addEventListener('mousedown', pulo);
